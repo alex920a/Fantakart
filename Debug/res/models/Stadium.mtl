@@ -1,0 +1,321 @@
+# Blender MTL File: 'kartCrash.blend'
+# Material Count: 29
+
+newmtl Material__25.005
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/1d341b0c.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/1d341b0c.png
+
+newmtl Material__26.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/00ccc985.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/00ccc985.png
+
+newmtl Material__27.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/5ad958a8.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/5ad958a8.png
+
+newmtl Material__30.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/6a9c8b8f.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/6a9c8b8f.png
+
+newmtl Material__32.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/8cb313e9.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/8cb313e9.png
+
+newmtl Material__33.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/27ef33b8.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/27ef33b8.png
+
+newmtl Material__34.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/28cc4f67.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/28cc4f67.png
+
+newmtl Material__35.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/32a545b8.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/32a545b8.png
+
+newmtl Material__36.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/50ebcefc.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/50ebcefc.png
+
+newmtl Material__37.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/75bee28c.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/75bee28c.png
+
+newmtl Material__40.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/81b7fa21.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/81b7fa21.png
+
+newmtl Material__42.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/486d4aa6.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/486d4aa6.png
+
+newmtl Material__43.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/61693bf8.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/61693bf8.png
+
+newmtl Material__44.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/79034a04.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/79034a04.png
+
+newmtl Material__48.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/94525bb4.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/94525bb4.png
+
+newmtl Material__49.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/a4f79a73.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/a4f79a73.png
+
+newmtl Material__50.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/3aa14a96.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/3aa14a96.png
+
+newmtl Material__51.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/b051d4a8.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/b051d4a8.png
+
+newmtl Material__53.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/b051d4a8.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/b051d4a8.png
+
+newmtl Material__54.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/bfb701d9.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/bfb701d9.png
+
+newmtl Material__55.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/cc9920b8.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/cc9920b8.png
+
+newmtl Material__56.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/cce2282d.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/cce2282d.png
+
+newmtl Material__57.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/da088120.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/da088120.png
+
+newmtl Material__58.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/e639dd98.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/e639dd98.png
+
+newmtl Material__59.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/ec0d0fb7.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/ec0d0fb7.png
+
+newmtl Material__60.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/eed71242.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/eed71242.png
+
+newmtl Material__62.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/a4f79a73.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/a4f79a73.png
+
+newmtl Material__63.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/7eb9a2ff.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/7eb9a2ff.png
+
+newmtl Material__64.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/arenaNitroKart/92102aa1.png
+map_Ka /home/alessandro/Scaricati/arenaNitroKart/92102aa1.png

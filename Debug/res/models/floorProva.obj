@@ -1,0 +1,12 @@
+# Blender v2.74 (sub 0) OBJ File: 'floor.blend'
+# www.blender.org
+mtllib floorProva.mtl
+o Plane
+v -0.915018 0.058362 1.111319
+v 1.084982 0.058362 1.111319
+v -0.915018 0.058362 -0.888681
+v 1.084982 0.058362 -0.888681
+vn 0.000000 1.000000 0.000000
+usemtl None
+s off
+f 1//1 2//1 4//1 3//1

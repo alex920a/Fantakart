@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Material__25.003
+Ns 1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.301056 0.301056 0.301056
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/alessandro/Scaricati/kartOxide/Noxidecar.png
+map_Ka /home/alessandro/Scaricati/kartOxide/Noxidecar.png
